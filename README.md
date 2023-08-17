@@ -1,7 +1,10 @@
 # HEALTH INSURANCE CROSS SELL PREDICTION
 Predicting whether a customer would be interested in buying Vehicle Insurance so that the company can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
 
-![https://iconscout.com/lottie/health-insuarance-policy-coverage-9145917]
+![download](https://github.com/saraswatiyangandul20/HealthInsuranceCrossSellPrediction/assets/126682023/d6adfbf0-8418-4912-8742-0b2c7a813382)
+
+
+
 
 ---
 
